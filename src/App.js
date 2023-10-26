@@ -7,6 +7,7 @@ export default function App() {
 			<div className="mario-title">
 				<h1>Super Mario Bro's To-Do List App</h1>
 			</div>
+			<button>Create New Event</button>
 		</div>
 	);
 }
