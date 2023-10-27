@@ -5,6 +5,11 @@ body {
 }
 .app-container {
   text-align: center;
+ 
+}
+
+.mario-title {
+  text-align: center;
   background-color: #fafafa; /* Light background colour */
   padding: 20px;
   border-radius: 10px;
@@ -12,8 +17,5 @@ body {
 
   /* Mario theme colors */
   color: #ff0000; /* Red for Mario's hat */
-}
-
-.mario-title {
   text-transform: uppercase;
 }
